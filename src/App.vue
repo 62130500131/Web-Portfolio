@@ -1,6 +1,5 @@
 <template>
   <div >
-  <navbar/>
   <Main/>
   </div>
 </template>

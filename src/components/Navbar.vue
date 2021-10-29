@@ -1,20 +1,18 @@
 <template>
     <div class="grid grid-cols-2">
-        <div>
-
-        </div>
+        <a href="#main"><img  class="w-20 h-20 fixed top-0" src="../assets/logo.png"></a>
         <div class="grid grid-cols-4 justify-self-end item-center">
-            <a  href="#main">About</a>
-            <a  href="#about">Education</a>
-            <a  href="#main">Skill</a>
-            <a  href="#main" class="filter brightness-200">Contract</a>
+            <a  id="nav-link" href="#about">About</a>
+            <a  id="nav-link" href="#education">Education</a>
+            <a  id="nav-link" href="#skill">Skill</a>
+            <a  id="nav-link" href="#contract" class="filter brightness-200">Contract</a>
         </div>
     </div>
 </template>
 <style>
 
-a{
-    margin: 20px;
+#nav-link{
+    margin: 26px;
     font-weight: 600;
     font-size: 1rem;
     line-height: 1rem;
