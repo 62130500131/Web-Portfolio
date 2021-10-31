@@ -17,8 +17,8 @@
     <img alt="photo of me" class="w-96 h-96 place-self-center " src="../assets/me.png">
 
     <div class="justify-self-start self-center text-left ">
-        <pre class="text-xl">
-<strong>About</strong>
+        <pre class="text-xl filter brightness-200">
+<strong>ABOUT</strong>
         
 Hello,I'm Weeraphon, I am currently studying to be 
 a frontend developer.I enjoy progarming code to 
@@ -35,8 +35,9 @@ creative and secure.
     <img alt="photo of kmutt" class="w-96 h-96 place-self-center " src="../assets/logokmutt.png">
 
     <div class="justify-self-start self-center text-left ">
-        <pre class="text-xl">
-<strong>Education</strong>
+        <pre class="text-xl filter brightness-200">
+<strong>EDUCATION</strong>
+
 Now I'm study in 
 ➡School of Information Technology (SIT)  
 ➡Faculty Information Technology(IT)
@@ -53,7 +54,7 @@ Now I'm study in
 
       <div class=" grid justify-self-center  text-center ">
           
-          <pre class="text-xl mt-72 justify-self-center"><strong>SKILL</strong></pre>
+          <pre class="text-xl mt-72 justify-self-center filter brightness-200"><strong>SKILL</strong></pre>
           
           <img src="../assets/skill.png" class="h-3/6 self-start justify-self-center">
           
@@ -68,10 +69,10 @@ Now I'm study in
     <div class="grid grid-cols-5 ">
 
       <div class="justify-self-start  text-left col-start-3 col-span-2 my-72">
-          <p >Bye , i hope you</p>
+          <p class="filter brightness-200 ">Bye , i hope you</p>
           <b class="filter brightness-200 ">Contract Me</b><br>
-          <p class="filter brightness-100 ">Phone : 064-068-5573</p>
-          <p class="filter brightness-100 ">Email : weeraphon.benz@mail.kmutt.ac.th</p>
+          <p class="filter brightness-200 ">Phone : 064-068-5573</p>
+          <p class="filter brightness-200 ">Email : weeraphon.benz@mail.kmutt.ac.th</p>
           <div class="grid grid-cols-5 my-5">
           <a href="https://www.facebook.com/profile.php?id=100010151945474"><img src="../assets/FB.png" class="w-10 h-10"/></a>
           <a href="https://www.instagram.com/weeraphon_283/"><img src="../assets/IG.png" class="w-10 h-10"/></a>
