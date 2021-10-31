@@ -1,7 +1,7 @@
 <template>
   <div id="main" class="h-screen">
     <navbar/>
-    <div class="grid grid-cols-3 ">
+    <div class="grid grid-cols-3">
 
       <div class="justify-self-start  text-left col-start-2 col-span-2 my-72">
           <p >Hello , my name is </p>
@@ -18,13 +18,13 @@
 
     <div class="justify-self-start self-center text-left ">
         <pre class="text-xl">
-        <strong>About</strong>
+<strong>About</strong>
         
-        Hello,I'm Weeraphon, I am currently studying to be 
-        a frontend developer.I enjoy progarming code to 
-        creating things that live on the internet.My goal is 
-        to be a Good Programmer, Whether it's coding good, 
-        creative and secure.
+Hello,I'm Weeraphon, I am currently studying to be 
+a frontend developer.I enjoy progarming code to 
+creating things that live on the internet.My goal is 
+to be a Good Programmer, Whether it's coding good, 
+creative and secure.
         </pre>
     </div>
 
@@ -36,13 +36,11 @@
 
     <div class="justify-self-start self-center text-left ">
         <pre class="text-xl">
-        <strong>Education</strong>
-
-        Now I'm study in 
-        ➡School of Information Technology (SIT)  
-        ➡Faculty Information Technology(IT)
-        ➡King Mongkut's University of Technology Thonburi(KMUTT)
-
+<strong>Education</strong>
+Now I'm study in 
+➡School of Information Technology (SIT)  
+➡Faculty Information Technology(IT)
+➡King Mongkut's University of Technology Thonburi(KMUTT)
         </pre>
         
     </div>
@@ -104,6 +102,9 @@ export default {
     b{
         font-size: 3rem;
         line-height: 1.6;
+    }
+    a:hover{
+      opacity: 0.5;
     }
 </style>
 

@@ -5,7 +5,7 @@
             <a  id="nav-link" href="#about">About</a>
             <a  id="nav-link" href="#education">Education</a>
             <a  id="nav-link" href="#skill">Skill</a>
-            <a  id="nav-link" href="#contract" class="filter brightness-200">Contract</a>
+            <a  id="nav-link" href="#contract" class="animate-pulse filter brightness-200">Contract</a>
         </div>
     </div>
 </template>
@@ -17,4 +17,5 @@
     font-size: 1rem;
     line-height: 1rem;
 }
+
 </style>
