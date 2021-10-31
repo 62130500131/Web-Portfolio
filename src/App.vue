@@ -1,6 +1,6 @@
 <template>
   <div >
-  <Main/>
+    <Main/>
   </div>
 </template>
 
@@ -20,5 +20,7 @@ export default {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   text-align: center;
   color: #707d90;
+  margin: 0;
+  padding: 0;
 }
 </style>
